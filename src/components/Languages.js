@@ -1,7 +1,7 @@
 const abc = [
   { id: 0, name: "Hindi" },
   { id: 1, name: "English" },
-  { id: 2, name: "Telgu" },
+  { id: 2, name: "Telugu" },
   { id: 3, name: "Tamil" },
   { id: 4, name: "Malyalam" },
   { id: 5, name: "Kannada" },
